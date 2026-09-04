@@ -1,15 +1,13 @@
 # Voice-Disorder-Signal-Processing
 Speech signal-processing and machine-learning project exploring voice-disorder detection using extracted features and a Random Forest classifier.
 
-# 🎙️ Voice Disorder — Signal Processing & Machine Learning
 
-## 📌 Overview
+## Overview
 
 A signal-processing and machine-learning project exploring the detection of voice disorders from speech signals.
-
 The project combines speech-signal analysis, feature extraction, and machine-learning classification using a Random Forest approach.
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze speech signals
 * Extract meaningful signal features
@@ -17,9 +15,8 @@ The project combines speech-signal analysis, feature extraction, and machine-lea
 * Apply a Random Forest classifier
 * Explore the potential of signal processing for voice-disorder detection
 
-## 🔬 Methodology
+## Methodology
 
-```text
 Speech Data
      ↓
 Signal Preprocessing
@@ -31,24 +28,20 @@ Feature Dataset
 Random Forest Classifier
      ↓
 Classification
-```
 
-## 🧠 Machine Learning
 
-The project uses a Random Forest classifier to classify speech-related feature data.
+## Machine Learning: The project uses a Random Forest classifier to classify speech-related feature data.
 
-## 🛠️ Technologies
-
+## Technologies
 * Python
 * Signal Processing
 * Speech Analysis
 * Machine Learning
 * Random Forest
 
-## 📊 Results
+## Results
 
 Add your actual:
-
 * Accuracy
 * Precision
 * Recall
@@ -60,7 +53,7 @@ here.
 
 > Do not add performance numbers unless they were actually obtained during the project.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 voice-disorder-signal-processing/
@@ -81,8 +74,3 @@ voice-disorder-signal-processing/
 * Compare classifier performance
 * Investigate larger datasets
 
-## 👩‍💻 Author
-
-**Reem Aldamen**
-
-Electrical & Computer Engineering Student
